@@ -168,7 +168,7 @@ namespace BlackJackGame
         {
             Console.WriteLine("Player cards: \n");
             Console.WriteLine(data.Builder);
-            Console.WriteLine("Suma twoich kart wynosi: {0}",data.Value);
+            Console.WriteLine("Your's cards sum is: {0}",data.Value);
         }
 
         public void StartGame()
