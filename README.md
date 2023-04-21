@@ -3,4 +3,9 @@ In this project you can feel like gamer of real casino. The application presents
 At the start of the game you have 5000 euros. If you will be great player your money will be bigger and bigger, but pay attention too, because our croupier is cunning.
 
 ## Introduction
-The Black Jack Game is a console application, which uses Denendency Injection, collections such a lists, tuples, dictionares, to create and manage cards.
+The Black Jack Game is a console application, which use Denendency Injection, collections such a lists, tuples, dictionares, to create and manage cards. In game you have three options to choose:
+* **HIT - you draw a new card**
+* **STAND - you check croupier**
+* **DUBLE - you double the rate and check the croupier**
+
+##Have a nice fun !
