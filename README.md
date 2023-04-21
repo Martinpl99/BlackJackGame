@@ -14,6 +14,8 @@ The Black Jack Game is a console application, which use Denendency Injection, co
 ![image](https://user-images.githubusercontent.com/126328327/233609982-08f3391c-8806-4b84-9a0e-8486b1cd0f2e.png)\
 ![image](https://user-images.githubusercontent.com/126328327/233610048-b8ce0ed0-ad42-493d-8965-fa6004607119.png)\
 
+## Running the app
+
 Clone repository
 
     git clone https://github.com/Martinpl99/BlackJackGame
