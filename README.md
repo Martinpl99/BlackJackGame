@@ -26,4 +26,4 @@ Clone repository
 
 2nd option:
 
-    Running application using .exe file from directory ../BlackJackGame/bin/Debug/net6.0/BlackJackGame.exe
+    Run application using .exe file from directory ../BlackJackGame/bin/Debug/net6.0/BlackJackGame.exe
