@@ -1,4 +1,4 @@
-# Black Jack Game Appliation
+# Black Jack Game Application
 In this project you can feel like gamer of real casino. The application presents one of the most popular games in Casino.
 At the start of the game you have 5000 euros. If you will be great player your money will be bigger and bigger, but pay attention too, because our croupier is cunning.
 
