@@ -6,7 +6,7 @@ At the start of the game you have 5000 euros. If you will be great player your m
 The Black Jack Game is a console application, which use Denendency Injection, collections such a lists, tuples, dictionares, to create and manage cards. In game you have three options to choose:
 * **HIT - you draw a new card**
 * **STAND - you check croupier**
-* **DUBLE - you double the rate and check the croupier**
+* **DOUBLE - you double the rate and check the croupier**
 
 ## Have a nice fun !
 
