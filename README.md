@@ -18,14 +18,14 @@ The Black Jack Game is a console application, which use Denendency Injection, co
 
 Clone repository
 
-git clone https://github.com/Martinpl99/BlackJackGame
+  git clone https://github.com/Martinpl99/BlackJackGame
 
 1st option:
 
-Run application using IDE (Microsoft Visual Studio)
+  Run application using IDE (Microsoft Visual Studio)
 
 2nd option:
 
-Running application using .exe file from directory ../BlackJackGame/bin/Debug/net6.0/BlackJackGame.exe
+  Running application using .exe file from directory ../BlackJackGame/bin/Debug/net6.0/BlackJackGame.exe
 
 
